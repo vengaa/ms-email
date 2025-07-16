@@ -33,4 +33,6 @@ public class EmailModel implements Serializable {
 
     private StatusEmail statusEmail;
 
+    private String error;
+
 }
